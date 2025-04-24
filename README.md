@@ -11,7 +11,7 @@
   <p>Building a unified financial research and analysis platform powered by AI 🚀</p>
   
   [![My Website](https://img.shields.io/badge/Portfolio-AnwaarMalik.dev-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://anwaarmalik.dev/) 
-  [![AllMind AI](https://img.shields.io/badge/Company-AllMindAI-000080?style=flat-square&logo=atom&logoColor=white)](https://useallmind.ai/)
+  [![AllMind AI](https://img.shields.io/badge/Company-AllMind-AI-000080?style=flat-square&logo=atom&logoColor=white)](https://useallmind.ai/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwaarmalik/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anwaarmalik@allmindinvestments.com)
 </div>

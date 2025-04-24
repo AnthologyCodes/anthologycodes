@@ -50,7 +50,7 @@
 <div align="center">
   <!-- Using standard github-readme-stats URL -->
   <!-- Replace 'Anthologycodes' if your GitHub username is different -->
-  <img src="https://github-readme-stats-k5ftlx7z3-anwaars-projects.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Anwaar's GitHub Stats" />
+  <img src="https://github-readme-stats-k5ftlx7z3-anwaars-projects.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Anwaar's GitHub Stats" />
   <br/>
   <!-- Optional: Add top languages card -->
   <!-- <img src="https://github-readme-stats-k5ftlx7z3-anwaars-projects.vercel.app/api/top-langs/?username=Anthologycodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> -->

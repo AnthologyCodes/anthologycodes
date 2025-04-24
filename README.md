@@ -30,33 +30,25 @@ const anwaar = {
 
 <div align="center">
 
-Languages & Frameworks
-![alt text](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-![alt text](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+### AI, Cloud & Big Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![alt text](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-AI, Cloud & Big Data
-![alt text](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![alt text](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-<!-- Added -->
-![alt text](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<!-- Added -->
-![alt text](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-Databases & Deployment
-<!-- Added Section -->
-![alt text](https://img.shields.io/badge/Databases-SQL/NoSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-<!-- Added - Represents general database skills. Used PostgreSQL logo -->
-![alt text](https://img.shields.io/badge/Deployment-CI/CD-blue?style=for-the-badge&logo=googlecloud&logoColor=white)
-<!-- Added - Represents deployment skills. Used generic Cloud icon -->
-<!-- You can replace the generic Databases/Deployment badges with specific ones like PostgreSQL, MongoDB, Kubernetes, Jenkins, etc. if preferred -->
+### Databases & Deployment
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![SQL/NoSQL](https://img.shields.io/badge/Databases-SQL/NoSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/Deployment-CI/CD-blue?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 </div>
 
 ## 📊 GitHub Stats

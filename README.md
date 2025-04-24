@@ -44,7 +44,7 @@
 
 <div align="center">
   <!-- Using the OFFICIAL github-readme-stats URL for better reliability -->
-  <img src="https://github-readme-stats-k5ftlx7z3-anwaars-projects.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight" alt="Anwaar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Anwaar's GitHub Stats" />
   <br/>
   <!-- Optional: Add top languages card using the official URL -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthologycodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> -->

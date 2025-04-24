@@ -44,7 +44,7 @@
 
 <div align="center">
   <!-- Using the OFFICIAL github-readme-stats URL for better reliability -->
-  <img src="https://github-readme-stats-k5ftlx7z3-anwaars-projects.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-k5ftlx7z3-anwaars-projects.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
   <!-- Optional: Add top languages card using the official URL -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthologycodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> -->
@@ -55,16 +55,11 @@
 ### 📫 Let's Connect:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anwaarmalik/" target="_blank"><img height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" title="LinkedIn"></a>   
+  <a href="https://www.linkedin.com/in/anwaarmalik/" target="_blank"><img height="32" src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwaarmalik/)
   <a href="mailto:anwaarmalik@allmindinvestments.com" target="_blank"><img height="32" src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" title="Email"></a>   
   <a href="https://anwaarmalik.dev/" target="_blank"><img height="32" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio Website" title="Portfolio Website"></a>
   <!-- Add other relevant links like Twitter, DEV.to, etc. -->
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anthologycodes&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
 
 <!-- Optional: Last updated: April 24, 2025 -->

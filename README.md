@@ -48,11 +48,8 @@
 
 <p align="center">
   <!-- Using standard github-readme-stats URL -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Anwaar's GitHub Stats" />
+  <img src="https://github-readme-stats-k5ftlx7z3-anwaars-projects.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Anwaar's GitHub Stats" />
   <br/>
-  <!-- Using standard github-readme-stats URL -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthologycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <!-- Themes: dracula, github_dark, radical, gruvbox, nord, merko, material-palenight, tokyonight -->
 </p>
 
 ---

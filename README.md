@@ -1,76 +1,77 @@
-# Hi there, I'm [Anwaar Malik](https://anwaarmalik.dev/) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
-
-![Modern Developer Animation](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats-k5ftlx7z3-anwaars-projects.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true)](https://github.com/Anthologycodes)
-
-</div>
-
-## 🚀 About Me
-
-- 🧠 Founder of **[AllMind AI](https://useallmind.ai/)** (VC Backed)
-- 💻 Check out my portfolio at **[anwaarmalik.dev](https://anwaarmalik.dev/)**
-- 🔍 Passionate about AI, innovation, and solving complex problems
-- 🌱 Constantly learning and expanding my tech stack
-
-## 💻 Tech Stack & Tools
+# Hi there, I'm Anwaar Malik 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## 🔭 Featured Projects
-
-<div align="center">
-  <a href="https://useallmind.ai/">
-    <img src="https://img.shields.io/badge/AllMind%20AI-Visit%20Website-8A2BE2?style=for-the-badge" alt="AllMind AI" />
-  </a>
-</div>
-
-<!-- You can add more projects here with descriptions -->
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anthologycodes&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anthologycodes&theme=nord&column=7" alt="trophy" />
-</div>
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://anwaarmalik.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://useallmind.ai" target="_blank">
-    <img src="https://img.shields.io/badge/AllMind_AI-5C2D91?style=for-the-badge&logo=stripe&logoColor=white" alt="AllMind AI" />
+  <a href="https://useallmind.ai/" target="_blank">
+    <!-- ****** IMPORTANT: REPLACE THIS URL with your actual banner image/GIF URL ****** -->
+    <img src="https://YOUR_COOL_BANNER_OR_GIF_URL_HERE" alt="Header Banner/GIF" width="800"/>
+    <!-- Find cool banners/GIFs on sites like Behance, Giphy, or create your own! -->
+    <!-- Example placeholder (replace!): https://media.giphy.com/media/LnQjpWaON8nhr21yfX/giphy.gif -->
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anthologycodes&color=blueviolet&style=flat-square)
-![Last Updated](https://img.shields.io/github/last-commit/Anthologycodes/Anthologycodes?label=Last%20Updated&color=success&style=flat-square)
+<div align="center">
+
+  I'm the **Founder** of **[AllMind AI](https://useallmind.ai/)** (VC Backed) 🚀, passionate about leveraging technology and AI to build innovative solutions.
+
+  [![My Website](https://img.shields.io/badge/Portfolio-AnwaarMalik.dev-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://anwaarmalik.dev/)
+  [![AllMind AI](https://img.shields.io/badge/Company-AllMind%20AI-success?style=flat-square)](https://useallmind.ai/)
+  <!-- Add other relevant badges like LinkedIn, Twitter using Shields.io or Simple Icons -->
+  <!-- Example LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/) -->
+
+</div>
 
 ---
-<div align="center">
-  <i>✨ Thanks for visiting my GitHub profile! ✨</i>
-</div>
+
+### 🛠️ Languages and Tools I Use:
+
+<p align="left">
+  <!-- ****** IMPORTANT: Customize this section with YOUR actual skills! ****** -->
+  <!-- Find icons via https://devicon.dev/ or https://simpleicons.org/ -->
+  <code><img height="25" src="https://cdn.simpleicons.org/python/3776AB" alt="Python"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/react/61DAFB" alt="React"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/git/F05032" alt="Git"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/github/181717" alt="GitHub"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5"></code>
+  <code><img height="25" src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3"></code>
+</p>
+
+---
+
+### 📊 My GitHub Stats:
+
+<p align="center">
+  <!-- Using standard github-readme-stats URL -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Anwaar's GitHub Stats" />
+  <br/>
+  <!-- Using standard github-readme-stats URL -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthologycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Themes: dracula, github_dark, radical, gruvbox, nord, merko, material-palenight, tokyonight -->
+</p>
+
+---
+
+### 📫 Let's Connect:
+
+<p align="left">
+  <!-- ****** IMPORTANT: Replace # with your actual profile URLs ****** -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img height="30" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn"></a>  
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"><img height="30" src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter"></a>  
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank"><img height="30" src="https://cdn.simpleicons.org/gmail/D14836" alt="Email"></a>  
+  <!-- Add other relevant links like DEV.to, Medium, etc. -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anthologycodes&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<!-- Optional: Add a last updated timestamp -->
+<!-- Last updated: April 24, 2025 -->

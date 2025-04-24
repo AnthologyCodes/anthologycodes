@@ -55,7 +55,7 @@
 ### 📫 Let's Connect:
 
 <p align="center">
-     <a href="https://www.linkedin.com/in/anwaarmalik/" target="_blank"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"></a><a href="mailto:anwaarmalik@allmindinvestments.com" target="_blank"><img height="32" src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" title="Email"></a>   <a href="https://anwaarmalik.dev/" target="_blank"><img height="32" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio Website" title="Portfolio Website"></a>
+  <a href="https://www.linkedin.com/in/anwaarmalik/" target="_blank"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"></a> <a href="mailto:anwaarmalik@allmindinvestments.com" target="_blank"><img height="32" src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" title="Email"></a>   <a href="https://anwaarmalik.dev/" target="_blank"><img height="32" src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio Website" title="Portfolio Website"></a>
 </p>
 
 

@@ -47,8 +47,6 @@ const anwaar = {
 
 <div align="center">
   <img src="https://github-readme-stats-k5ftlx7z3-anwaars-projects.vercel.app/api?username=Anthologycodes&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Anwaar's%20GitHub%20Activity"/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Anthologycodes&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ## 🔭 Current Focus
